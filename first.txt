@@ -3,6 +3,8 @@ this is second line . so we will do next
 this is 3rd line . hurray we write the 3rd line
 this is actually 6th line added
 7th line added
+main branch write this line 
+main branch write this line also
 branch 2 added this first line 
 branch 2 write this line 
 branch 2 added another new line 
