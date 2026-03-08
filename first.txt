@@ -4,3 +4,11 @@ this is 3rd line . hurray we write the 3rd line
 this is 4th line we are adding 
 this is 5th line we now add another line 
 9th line added
+this is actually 6th line added
+7th line added
+main branch write this line 
+main branch write this line also
+branch 2 added this first line 
+branch 2 write this line 
+branch 2 added another new line 
+branch 2 add another line now 
