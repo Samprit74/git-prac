@@ -5,3 +5,4 @@ this is actually 6th line added
 7th line added
 branch 2 added this first line 
 branch 2 write this line 
+branch 2 added another new line 
